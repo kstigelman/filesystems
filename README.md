@@ -12,6 +12,6 @@ File system is on a disk (represented as a file) that is 128 KB in size.
 The first 1 KB block is the super block, containing the free block list and inodes.
 Remaining 127 KB stores data.
 
-Executing
-  runner.exe < input.txt
-Will redirect the commands in input.txt to the program, and read/write the disk accordingly
+Executing the command
+  "runner.exe < input.txt"
+in a shell will redirect the commands in input.txt to the program, and read/write the disk accordingly
