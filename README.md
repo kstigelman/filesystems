@@ -2,7 +2,7 @@
 ________________________
 A simple, UNIX-like file system lab for CSCI-380 Operating Systems.
 The assignment was to complete the file system in a C file (fs.c).
-All other code was provided by the professor (ex. main.c, create_fs.c, runner.c, ...).
+All other code was provided by the professor (create_fs.c, runner.c, Makefile).
 
 File system is on a disk (represented as a file) that is 128 KB in size.
 - Supports up to 16 files
